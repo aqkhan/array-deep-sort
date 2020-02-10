@@ -1,5 +1,5 @@
 # Object Deep Compare
-A simple JS array sort with capability to sort array of objects by object key values. 
+A simple JS array sort with capability to sort array of objects by object key values down to three levels. 
 
 # Install
 npm install [--save] [-S] @alphasquad/array-deep-sort

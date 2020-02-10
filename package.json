@@ -1,7 +1,7 @@
 {
   "name": "@alphasquad/array-deep-sort",
   "version": "0.0.1",
-  "description": "A simple JS array sort with capability to sort array of objects by object key values.",
+  "description": "A simple JS array sort with capability to sort array of objects by object key values down to three levels.",
   "main": "lib/index.js",
   "types": "./lib",
   "scripts": {
