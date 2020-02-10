@@ -1,4 +1,4 @@
-# Object Deep Compare
+# Array Deep Sort
 A simple JS array sort with capability to sort array of objects by object key values down to three levels. 
 
 # Install
