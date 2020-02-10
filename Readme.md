@@ -56,34 +56,34 @@ console.log(deepSort(arr, 'ASC', 'key1'));
 console.log(deepSort(arr, 'ASC', 'key2.key21'));
 console.log(deepSort(arr, 'ASC', 'key2.key22.key221'));
 
-/// [
-///     {
-///         key1: 1,
-///         key2: {
-///             key21: 'A', 
-///             key22: {
-///                 key221: 'A'
-///             }
-///         }
-///     },
-///     {
-///         key1: 2,
-///         key2: {
-///             key21: 'B', 
-///             key22: {
-///                 key221: 'B'
-///             }
-///         }
-///     },
-///     {
-///         key1: 3,
-///         key2: {
-///             key21: 'C', 
-///             key22: {
-///                 key221: 'C'
-///             }
-///         }
-///     }
-/// ];
+// [
+//     {
+//         key1: 1,
+//         key2: {
+//             key21: 'A', 
+//             key22: {
+//                 key221: 'A'
+//             }
+//         }
+//     },
+//     {
+//         key1: 2,
+//         key2: {
+//             key21: 'B', 
+//             key22: {
+//                 key221: 'B'
+//             }
+//         }
+//     },
+//     {
+//         key1: 3,
+//         key2: {
+//             key21: 'C', 
+//             key22: {
+//                 key221: 'C'
+//             }
+//         }
+//     }
+// ];
 
 ```
