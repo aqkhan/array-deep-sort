@@ -1,0 +1,23 @@
+{
+  "name": "@alphasquad/array-deep-sort",
+  "version": "0.0.1",
+  "description": "A simple JS array sort with capability to sort array of objects by object key values.",
+  "main": "lib/index.js",
+  "types": "./lib",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "keywords": [
+    "javascript", "nodejs", "array", "object", "sort", "array-sort"
+  ],
+  "author": "AlphaSquad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aqkhan/array-deep-sort"
+  }, 
+  "homepage": "https://github.com/aqkhan/array-deep-sort"
+}

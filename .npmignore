@@ -1,0 +1,6 @@
+src
+package-lock.json
+tsconfig.json
+.gitignore
+node_modules
+.DS_Store
